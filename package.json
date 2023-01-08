@@ -4,23 +4,23 @@
     "description": "lesson 1",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Danskibum/CSE-341"
+        "type": "git",
+        "url": "git+https://github.com/Danskibum/CSE-341"
     },
     "author": "Nathan Birch",
     "license": "ISC",
     "bugs": {
-      "url": "https:https://github.com/Danskibum/CSE-341"
+        "url": "https:https://github.com/Danskibum/CSE-341"
     },
     "homepage": "https://github.com/Danskibum/CSE-341",
     "dependencies": {
-      "express": "^4.17.3"
+        "express": "^4.18.2"
     },
     "devDependencies": {
-      "nodemon": "^2.0.15"
+        "nodemon": "^2.0.15"
     }
-  }
+}
