@@ -1,0 +1,23 @@
+{
+   "contact": {
+    "firstName": "Daniel",
+    "lastName": "Gerdes",
+    "email": "ger19007@byui.edu",
+    "favoriteColor": "Green",
+    "birthday": "12/17/1977"
+   },
+   "contact2": {
+    "firstName": "Kristal",
+    "lastName": "Gerdes",
+    "email": "kristal75m@yahoo.com",
+    "favoriteColor": "Green",
+    "birthday": "08/30/1975"
+   },
+   "contact3": {
+    "firstName": "Gretchen",
+    "lastName": "Gerdes",
+    "email": "gretchengerdes@gmail.com",
+    "favoriteColor": "Purple",
+    "birthday": "06/07/2006"
+   }
+}
